@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter displays the correct count passed in props 1`] = `
+<div
+  className="sc-bdVaJa jeITAu"
+>
+  3
+</div>
+`;
+
+exports[`Counter renders without crashing 1`] = `
+<div
+  className="sc-bdVaJa jeITAu"
+/>
+`;
